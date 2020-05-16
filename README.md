@@ -5,7 +5,6 @@
 
 * **What this plugin have ?**
     - Karaoke menu with songs
-    - You can set terrorist to the karaoke team
     - You can stop music
     - Hint Lyrics
     - Warden support
