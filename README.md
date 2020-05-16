@@ -14,4 +14,4 @@
     - https://ctrlv.cz/1haF
     - https://ctrlv.cz/GXFi
 
-* **If you interested in more songs, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
+* **If you interested in more songs or you have special request, you can contact me on steam: https://steamcommunity.com/id/Sniper-oo7/**
