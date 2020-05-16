@@ -10,7 +10,7 @@
     - Hint Lyrics
     - Warden support
 
-* **Photo from full version:**
+* **Photo:**
     - https://ctrlv.cz/1haF
     - https://ctrlv.cz/GXFi
 
