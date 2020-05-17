@@ -76,6 +76,8 @@ public Action CMD_Karaoke(int client, int args)
 	{
 		ReplyToCommand(client, " \x01[\x04Karaoke\x01] \x01You have to be a warden.");
 	}
+	
+	return Plugin_Handled;
 }
 
 void openMenu(int client)
@@ -158,6 +160,10 @@ public int mHlaskyHandler(Menu menu, MenuAction action, int client, int index)
 				}
 			}
 		}
+		case MenuAction_End:
+	    {
+	    	delete menu;
+	    }
 	}
 }
 
